@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    border: groove black;
+    margin-right: 400px;
+}
+img{
+    width: 25%;
+}
+header{
+    width: 30%;
+    background-color: aqua;
+    padding-bottom: 150px;
+}
+.Bah{
+    background-color: rgb(137, 137, 191);
+    color: white;
+}
+h2{
+    color: rgb(137, 137, 191);
+    font-size: 30px;
+    border-top: solid royalblue ;
+}
+.ASB{
+    margin: 40px;
+    padding-top: 20px;
+    font-weight: bolder;
+}
+.Section{
+padding: 30px ;
+}
